@@ -6,7 +6,7 @@
 <!-- About Me Section -->
 ### 👨‍💻 About Me
 - 🔬 Currently working as a **Data Scientist Associate**
-- 🌱 Passionate about **AI, Emerging Technologies, and Data Analysis**
+- 🌱 Passionate about **AI, Emerging Technologies, and Data Science**
 - 🎬 When I'm not crunching numbers, you can find me watching movies
 - 💡 Always excited to explore new technologies and methodologies
 
