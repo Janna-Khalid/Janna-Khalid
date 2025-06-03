@@ -46,10 +46,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janna-khalid&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
-<!-- Additional Stats - Dynamic -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janna-khalid&show_icons=true&theme=radical&hide=contribs,prs,issues&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
-</p>
 
 <!-- Connect Section -->
 ### 🤝 Let's Connect
